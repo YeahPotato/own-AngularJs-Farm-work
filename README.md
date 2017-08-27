@@ -1,2 +1,2 @@
-# own-AngularJs-Farm-work
+# own-AngularJs-framework
 To demystify the inner workings of AngularJS. To take it apart and put it back together again, in order to truly understand how it works;🚀✨
